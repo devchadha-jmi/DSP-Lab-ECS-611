@@ -27,6 +27,6 @@ title("real sequence ");
 
 subplot(313);
 stem(x,imag(uk));
-xlabel("tme");
+xlabel("time");
 ylabel("img magnitude");
 title("imaginary sequence");
