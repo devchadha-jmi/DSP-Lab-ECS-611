@@ -1,5 +1,7 @@
 # LAB 1
 
+Generate and plot different standard discrete time sequences
+
 ## Unit Impulse Sequence
 <p align="center">
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/82091082/229846022-81c82112-f5eb-40bf-bfb1-b909d7f3e4f6.png">
